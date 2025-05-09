@@ -25,7 +25,7 @@ class Calculator:
         """
         return a * b
     
-    def divide(a: int = 1, b:int = 1) -> int:
+    def divide(a: int = 1, b:int = 1) -> int: # El test puede hacerse mejor y no se me ocurre nada
         """Funcion que devuelve la division de dos numeros
 
         Args:
